@@ -29,8 +29,7 @@ Kafka is powered by four main APIs:
 
 ## How to Consume Data from Topics
 - To start consuming data from the beginning of a topic:
-  ```sh
-  kafka-console-consumer.sh --bootstrap-server <broker-ip> --topic <topic-name> --from-beginning
+```  kafka-console-consumer.sh --bootstrap-server <broker-ip> --topic <topic-name> --from-beginning ```
 
 # Apache Kafka 🚀
 
@@ -106,6 +105,11 @@ Kafka is powered by four main APIs:
 - Real-time Analytics – Process streaming data instantly.
 - Event-driven Microservices – Decouple services using Kafka.
 - Messaging Queue – Reliable and fault-tolerant messaging.
+
+#### **Producer Produces the message**
+``` kafka-console-producer.sh --bootstrap-server localhost:9092 --topic my_topic ```
+- Write a message to store on topics 
+
 
 
 
