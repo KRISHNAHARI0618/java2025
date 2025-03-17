@@ -15,20 +15,20 @@
 - Fundamental Concepts of Programming in Limited Time
 
 `Type Of Data Structures `
-- Primitive and Non-Primitive
+- Two Types of DS (Primitive and Non-Primitive)
 - Primitive
   - Integer
   - Float
   - Boolean
   - Character
 - Non-Primitive
-  - Linear
+  - Linear (Sequentially)
     - Static
       - Array
     - Dynamic
       - Linked List
       - Stack
       - Queue
-  - Non Linear
+  - Non Linear (Non Sequentially)
     - Tree
     - Graph
