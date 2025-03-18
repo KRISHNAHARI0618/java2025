@@ -67,4 +67,7 @@ Spring MVC (Model-View-Controller) is a module of the Spring framework used for 
 
 ---
 
-Hope this helps! 🚀
+#### Rest Controller
+
+- @RestController,@GetMapping --> Annotations
+- 
